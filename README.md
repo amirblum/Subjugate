@@ -15,4 +15,4 @@ Control key - Subjugate the nearest enemy!
 The rules are:
 You can only subjugate the closest enemy within your line of sight.
 You can destroy enemies only with subjugated enemies of the same type
-Don't let the enemies hit your house!!
+Don't let the enemies hit your house!!!
